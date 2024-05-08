@@ -1,1 +1,35 @@
+h1{
+    text-align: center;
+    font-size: 64px;
+}
+
+li{
+    text-align: center;
+}
+
+body {
+    color: black
+    width 70%;
+    margin: auto;
+}
+
+h3 {
+    text-decoration: dotted;
+}
+
+body {
+    background-color: yellow
+}
+
+img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 32px;
+}
 
